@@ -14,12 +14,12 @@ Este es el frontend de la API de Gestión de Publicaciones y Usuarios, creado co
 1. **Clona este repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/cesart20/api-rest-mern
     ```
 
     ```npm install```
 
-    
+
     ```npm run dev```
 
 

@@ -11,7 +11,8 @@ Este proyecto proporciona una API para gestionar usuarios y publicaciones utiliz
 
 1. **Clona este repositorio:**
 ```bash 
-    npm run dev
+    https://github.com/cesart20/api-rest-mern
+```
 
 2. **Configuración del entorno:**
 crear db en mongo y cambiar dbName: 'demo_db'
@@ -24,6 +25,9 @@ SECRET=tu_clave_secreta
 3. **Acceder a la Documentación Swagger:**
    ```bash
     http://localhost:4000/api-docs
+    ```
+
+
 
 
 ## Rutas Disponibles
